@@ -1,0 +1,490 @@
+body{
+margin:0px;
+padding: 0px;
+}
+.Main{
+width: 1360px;
+}
+.First{
+width: 100%;
+height: 606px;
+border: 1px solid white;
+}
+.halcy{
+margin: 150px auto;
+font-family: 'Open Sans', sans-serif;
+display: table;
+text-align: center;
+}
+div.First {
+background: url("hero-bg.jpg");
+background-size: cover;
+}
+.halcy p:nth-child(1){
+font-size:35px;
+color: #363636;
+letter-spacing: 2px;
+}
+.halcy p:nth-child(2){
+font-size:10px;
+color: #a6adb4;
+margin-top: -30px;
+letter-spacing: 1px;
+}
+span{
+color: #a6adb4;
+}
+.halcy input:nth-child(3){
+width: 205px;
+height: 50px;
+color: white;
+border: none;
+border-radius: 6px;
+background-color: #3dc9b3;
+box-shadow: 0 8px 6px -6px black;
+margin-top: 40px;
+}
+.second{
+width: 100%;
+height: 325px;
+border:1px
+background-color: #f3f5f8;
+font-family: 'Open Sans', sans-serif;
+text-align: center;
+}
+.second p:nth-child(1){
+font-size:15px;
+color: #363636;
+margin-top: 50px;
+
+}
+.second p:nth-child(3){
+font-size:15px;
+color: #aab0b4;
+margin-top: 30px;
+}
+.third{
+width: 100%;
+height: 550px;
+border: 1px solid none;
+
+font-family: 'Open Sans', sans-serif;
+}
+.third p:nth-child(1){
+font-size:15px;
+color: #363636;
+margin-top: 50px;
+
+}
+.circle{
+width: 130px;
+height: 130px;
+border-radius: 100%;
+background-color: #3dc9b3;
+display: inline-block;
+/*margin-left: 210px;
+margin-top: 50px;*/
+margin: 50px 85px auto;
+text-align: center;
+
+}
+
+.circle i {
+
+	color:white;
+	margin-top: 30px;
+
+
+
+}
+h5 {
+display: inline-block;
+margin: 50px 90px auto;
+}
+.creative {
+width: 100%;
+text-align: center;
+}
+.line {
+width: 50px;
+height: 3px;
+background-color: #3dc9b3;
+display: inline-block;
+margin: 50px 130px auto;
+}
+.circleMain{
+text-align: center;
+}
+.text {
+font-size: 8px;
+color: #363636;
+display: inline-block;
+margin: 10px 10px auto;
+}
+
+.fourth{
+
+	width: 100%;
+	height: 600px;
+	
+	
+}
+.phone{
+
+	width: 48%;
+	height: 400px;
+	margin-top: 100px;
+	
+	float: left;
+}
+
+
+
+
+.bootstrap{
+
+	width: 49%;
+	height: 400px;
+	margin-top: 100px;
+	text-align: center;
+	
+	float: left;
+}
+
+
+
+.bootstrap p {
+font-size:10px;
+color: #aab0b4;
+margin-top: 30px;
+}
+
+.fifth{
+
+	
+	width: 100%;
+	height: 200px;
+	background: url("plants-bg.png");
+	background-size: cover;
+	position: relative;
+	text-align: center;
+	
+
+
+}
+
+.fifth i {
+
+  color:white;
+  margin-top: 7px;
+}
+
+ .fifth h2{
+
+
+           color:white;
+           margin-top: 30px;
+           font-family: 'Open Sans', sans-serif;
+           letter-spacing: 2px;
+}
+           
+}
+
+
+.fifth h4{
+
+
+           color:white;
+           margin-top: 30px;
+           font-family: 'Open Sans', sans-serif;
+           letter-spacing: 2px;
+           
+}
+
+.circlesmal{
+
+	width: 40px;
+	height: 40px;
+	background-color: #3dc9b3;
+	border-radius: 100%;
+
+	margin: 20px auto;
+}
+
+.six{
+
+
+	width: 100%;
+	height: 480px;
+	
+}
+
+
+.dog{
+
+
+     width: 250px;
+     height: 130px;
+     float: left;
+     
+    
+     margin: 50px 95px auto;
+     text-align: center;
+}
+
+.dog p:nth-child(1) {
+
+	font-size:10px;
+    color: #363636;
+   
+}
+
+.dog p:nth-child(3) {
+
+	font-size: 8px;
+   color: #363636;
+   margin-top: 20px;
+   
+   
+   
+}
+
+.base {
+	text-align: center;
+	position: absolute;
+}
+
+.lineSmall{
+
+	width: 40px;
+    height: 3px;
+    background-color: #3dc9b3;
+    margin:15px 105px auto;
+}
+
+
+.seven {
+
+
+	width: 100%;
+	height: 120px;
+	background-color: #242830;
+
+	
+		
+	
+}
+
+.seven input {
+ 
+    width: 180px;
+    height: 50px; 
+    background-color: #242830;
+    color:white; 
+    margin: 30px 590px auto;
+     font-family: 'Open Sans', sans-serif;
+
+}
+
+.eight{
+
+	width: 100%;
+	height: 480px;
+
+	
+	
+}
+
+
+.eight i {
+
+
+	color:white;
+	margin-top: 4px;
+}
+
+/*.base {
+
+	width: 400px;
+	height: 20px;
+	background-color: blue;
+	margin: 20px 500px auto;
+	position: absolute;
+
+}*/
+
+.profile {
+
+	width: 140px;
+	height: 150px;
+	
+	margin: 80px 150px auto;
+	
+	display: inline-block;
+}
+
+.contact {
+
+	  width: 30px;
+	  height: 30px;
+
+	  background-color: #242830;
+	  border-radius: 100%;
+	  display: inline-block;
+	  margin-left: 20px;
+}
+
+.nine{
+
+	width: 100%;
+	height: 200px;
+	background-color: red;
+	position: relative;
+	background:url("keyboard-bg.jpg");
+	background-size: cover;
+}
+
+.nine i {
+
+	color:white;
+	margin: 30px 650px auto;
+}
+
+.send {
+
+
+	width: 350px;
+	height: 150px;
+	
+	margin: 20px 500px auto;
+	position: absolute;
+	text-align: center;
+
+}
+
+.send {
+
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.inputfirst{
+
+	width: 200px;
+	height: 30px;
+	float: left;
+	margin-left: 50px;
+	opacity: 0.5;
+
+}
+
+.inputsecond{
+
+	width: 50px;
+	height: 36px;
+	float: left;
+	background-color: #3dc9b3;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	border:none;
+	opacity: 0.9;
+
+}
+
+.sendcircle{
+
+	width: 40px;
+	height: 40px;
+	background-color: #3dc9b3;
+	border-radius: 100%;
+	margin: 100px 150px auto;
+	opacity: 0.5;
+}
+
+.ten{
+
+
+	width: 100%;
+	height: 350px;
+	background-color: #f3f5f8;
+	position: relative;
+}
+
+
+.last{
+
+
+	width: 250px;
+	height: 200px;
+	background-color:white;
+	
+	margin: 90px 100px auto;
+	float: left;
+	text-align: center;
+}
+
+.base p:nth-child(1){
+
+    font-size:15px;
+    color: #363636;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 550px;
+
+
+}
+
+.last p:nth-child(2){
+
+	color:#3dc9b3;
+	font-family: 'Open Sans', sans-serif;
+	font-size:15px;
+	margin-top: 30px;
+
+
+}
+
+.last p:nth-child(4){
+
+	color:#3dc9b3;
+	font-family: 'Open Sans', sans-serif;
+	font-size:10px;
+	color: #aab0b4;
+
+
+}
+
+.contact i {
+	color: white;
+	margin-top: 5px;
+	margin-left: 8px;
+}
+
+.last i {
+	margin-top: 20px;
+}
+
+.eleven {
+
+	width: 100%;
+	height: 80px;
+	 background-color: #242830;
+}
+
+
+.eleven p {
+
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+	float:right;
+	margin-right: 40px;
+	margin-top: 30px;
+
+
+}
+
+
+
+
+
+
